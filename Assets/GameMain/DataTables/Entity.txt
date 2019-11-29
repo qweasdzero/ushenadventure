@@ -1,0 +1,8 @@
+﻿#	实体表		
+#	Id		AssetName
+#	int		string
+#	实体编号	策划备注	资源名称
+	11	玩家1	Player
+	20	地图	MapGrid
+	21	障碍物	Obstacle
+	22	大地图	Map

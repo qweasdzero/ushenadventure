@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <AssetBundleCollection>
+    <AssetBundles>
+      <AssetBundle Name="Configs" LoadType="0" Packed="True" />
+      <AssetBundle Name="DataTables" LoadType="0" Packed="True" />
+      <AssetBundle Name="Entity" LoadType="0" Packed="True" />
+      <AssetBundle Name="Fonts" LoadType="0" Packed="True" />
+      <AssetBundle Name="Scenes" LoadType="0" Packed="True" />
+      <AssetBundle Name="Shaders" LoadType="0" Packed="True" />
+      <AssetBundle Name="Textures" LoadType="0" Packed="True" />
+      <AssetBundle Name="UI/UIForms" LoadType="0" Packed="True" />
+    </AssetBundles>
+    <Assets>
+      <Asset Guid="01d14db9f60bc544f8b12ca570555fe4" AssetBundleName="DataTables" />
+      <Asset Guid="022a593db8f14b14f841fbb33dd72d32" AssetBundleName="DataTables" />
+      <Asset Guid="090b699644f168049a629faa904d41b9" AssetBundleName="Textures" />
+      <Asset Guid="0abbeba066f4dee48a785264894b93b1" AssetBundleName="Textures" />
+      <Asset Guid="0c7b4faa2ba890e45a9bcb89c3349cde" AssetBundleName="Textures" />
+      <Asset Guid="0f36fe7b35b544b4999bfc9daaffafd8" AssetBundleName="Shaders" />
+      <Asset Guid="16fa1d94888f63c48826cf9e32737417" AssetBundleName="Textures" />
+      <Asset Guid="1ff40d60cf905ac42ae3c06b91cb0916" AssetBundleName="DataTables" />
+      <Asset Guid="20ad091706161784ab21fc7eb18b393e" AssetBundleName="UI/UIForms" />
+      <Asset Guid="20da7e56cbb26b3498b25fb61fa9a7ff" AssetBundleName="Textures" />
+      <Asset Guid="274864b118ac4f54589e32e7035cd77f" AssetBundleName="Textures" />
+      <Asset Guid="2d253bdcec1ed0c43aed85260ce3e2e4" AssetBundleName="Textures" />
+      <Asset Guid="2db84be62bbc2f149823b11f241b3a94" AssetBundleName="Textures" />
+      <Asset Guid="2f8215a56f947d343bcf100d364caf78" AssetBundleName="Textures" />
+      <Asset Guid="32bc47345d1717440a1710c55566b902" AssetBundleName="Textures" />
+      <Asset Guid="33ef589fc21d8d5469e5dbf5ecf599f2" AssetBundleName="Textures" />
+      <Asset Guid="3dfa118584e6b984fa72c0be5ecc8fb7" AssetBundleName="DataTables" />
+      <Asset Guid="3e074a2ae3038e54c891c955493c96fd" AssetBundleName="DataTables" />
+      <Asset Guid="44c8db52241385c45bbb14a1718f17bf" AssetBundleName="Configs" />
+      <Asset Guid="57147d837664dd944bb0a41b41d38bfd" AssetBundleName="Textures" />
+      <Asset Guid="5feddf0396f8fd842b6a2034a343e884" AssetBundleName="Textures" />
+      <Asset Guid="77cbb7c5404c10242ab59953e0746314" AssetBundleName="Fonts" />
+      <Asset Guid="7fd11dc5d29076d469d414dec2818f11" AssetBundleName="Configs" />
+      <Asset Guid="81aa4ce893de6c946b038e995dd2bdec" AssetBundleName="Textures" />
+      <Asset Guid="81cb795749aefac4ea7663bc3f7f71fb" AssetBundleName="Textures" />
+      <Asset Guid="83f35ee953966f24e8c9919fc56b8007" AssetBundleName="Textures" />
+      <Asset Guid="851e54a6df65d4d47ab72c7c82e39852" AssetBundleName="UI/UIForms" />
+      <Asset Guid="8cb8a606d747a2a4cb2a9c3f48954861" AssetBundleName="DataTables" />
+      <Asset Guid="8cf6f337025d0494f88a70ac574549b8" AssetBundleName="Textures" />
+      <Asset Guid="8ed33f36299df3d4eaa5817c57de3e79" AssetBundleName="DataTables" />
+      <Asset Guid="919073dfd3e75b64b84930ae77b4579f" AssetBundleName="Textures" />
+      <Asset Guid="923046bf913de3d41a755e4e49debe97" AssetBundleName="Textures" />
+      <Asset Guid="92337fa90aaf37c43ac82d2c6edc43ac" AssetBundleName="DataTables" />
+      <Asset Guid="95b20d8a0bda8324bb68c78c9e50479c" AssetBundleName="Textures" />
+      <Asset Guid="9c7f8abaceea58e4db628c3935ed7c4a" AssetBundleName="Textures" />
+      <Asset Guid="a4a8bec368cb88a42a106050b2008858" AssetBundleName="Textures" />
+      <Asset Guid="a79bd581603e2904ca168e3705b1b750" AssetBundleName="UI/UIForms" />
+      <Asset Guid="ac22b918905ab534db02b8ce00130579" AssetBundleName="UI/UIForms" />
+      <Asset Guid="ac7460c9c1fd07e42ad860152de96458" AssetBundleName="Textures" />
+      <Asset Guid="ae46dafa9027ef643a1fee70c41eade5" AssetBundleName="Textures" />
+      <Asset Guid="aec2ef3be2331b046abc44c38af888fa" AssetBundleName="Entity" />
+      <Asset Guid="af688a3f0abac1241b65b505ca6398b7" AssetBundleName="Entity" />
+      <Asset Guid="b3020224bdb16e54fa0dac482fd33cd1" AssetBundleName="Textures" />
+      <Asset Guid="b4b4d88e5eac824459af7a9f190fb336" AssetBundleName="DataTables" />
+      <Asset Guid="b594a97b48c7aed419aed029fd99502e" AssetBundleName="DataTables" />
+      <Asset Guid="b5f6fecbb295d054484551cefb76397d" AssetBundleName="Textures" />
+      <Asset Guid="bcb68afe79e40214aaf6cab328c7d210" AssetBundleName="Textures" />
+      <Asset Guid="be528680129d5d24b85fc1e20e6fb28d" AssetBundleName="Textures" />
+      <Asset Guid="cf8367c849601eb4989d22c662629ba1" AssetBundleName="Textures" />
+      <Asset Guid="d2dc53aa033441a48924c3c66608c05c" AssetBundleName="Entity" />
+      <Asset Guid="d66c6fa475438c04fbce457cc9dbe41f" AssetBundleName="DataTables" />
+      <Asset Guid="e4786044802dd2444adbe7c7652a7297" AssetBundleName="Textures" />
+      <Asset Guid="e5f0c5da24032934aa2596db18329a24" AssetBundleName="Entity" />
+      <Asset Guid="ef25ce5420dea8f49887fc11dee50a02" AssetBundleName="Textures" />
+      <Asset Guid="ef91ca4fa02bf06488cbee9d7aa0c99a" AssetBundleName="Scenes" />
+      <Asset Guid="efbee393ebd95c34eafd8166e82a0184" AssetBundleName="DataTables" />
+      <Asset Guid="ffab5206303b7c4439c1194bf5b73041" AssetBundleName="Scenes" />
+    </Assets>
+  </AssetBundleCollection>
+</UnityGameFramework>
